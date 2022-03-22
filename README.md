@@ -1,2 +1,6 @@
-# Ola Mundo
- Primeiro repositorio do curos de git e github
+# Olá, Mundo!
+ Primeiro repositorio do curos de Git e Github.
+
+ Repositório criado durante uma aula ao vivo!
+
+ 
